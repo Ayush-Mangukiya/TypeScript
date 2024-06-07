@@ -1,0 +1,16 @@
+Types in TS:
+
+number
+string
+boolean
+array
+object
+functions
+any
+never
+unknown
+tuple
+enums
+
+syntax : 
+let variableName.type = value
